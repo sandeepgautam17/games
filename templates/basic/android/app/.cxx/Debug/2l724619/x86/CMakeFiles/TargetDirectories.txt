@@ -1,0 +1,2 @@
+/Users/sandeepgautam/Documents/GitHub/flutter-games/games/templates/basic/android/app/.cxx/Debug/2l724619/x86/CMakeFiles/edit_cache.dir
+/Users/sandeepgautam/Documents/GitHub/flutter-games/games/templates/basic/android/app/.cxx/Debug/2l724619/x86/CMakeFiles/rebuild_cache.dir
